@@ -28,9 +28,9 @@ namespace GenericDelegate
     {
         static void Main(string[] args)
         {
-            GenericDelegateDemo GDD = new GenericDelegateDemo();
+            GenericDelegateDemo GOD = new GenericDelegateDemo();
 
-            GDD.GenInsta();
+            GOD.GenInsta();
 
 
         }
